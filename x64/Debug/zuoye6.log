@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\global.hpp(22,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\global.hpp(25,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\global.hpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Object.hpp(11,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Object.hpp(12,13): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Object.hpp(13,13): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Object.hpp(14,24): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Scene.hpp(16,60): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Scene.hpp(16,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Scene.hpp(16,41): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Scene.hpp(18,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(87,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,75): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,68): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,61): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,44): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\Triangle.hpp(88,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(16,45): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(16,40): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(16,35): warning C4305: “参数”: 从“double”到“float”截断
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\memory(3477,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(14,22): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\memory(3477,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(18,22): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\memory(3477,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Xinyue54321\Desktop\interest\计算机图形学\Assignment5\Code\main.cpp(32,20): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+  zuoye6.vcxproj -> C:\Users\Xinyue54321\source\repos\zuoye6\x64\Debug\zuoye6.exe
